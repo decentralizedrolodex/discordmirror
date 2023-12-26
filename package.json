@@ -1,0 +1,23 @@
+{
+  "name": "discordmirror",
+  "version": "1.0.0",
+  "description": "Mirror messages from any server to any channel.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohzzn/discordmirror.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohzzn/discordmirror/issues"
+  },
+  "homepage": "https://github.com/rohzzn/discordmirror#readme",
+  "dependencies": {
+    "selfcore": "^1.1.1"
+  },
+  "type": "module"
+}
